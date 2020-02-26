@@ -1,8 +1,65 @@
 
-
+body{
+    font-family: 'Josefin Sans', ;
+}
+.bg_img{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.bg_img_secend{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
 .left_side{
-
+    margin-top: 153px;
+    margin-left: 100px;
+}
+.left_side h1{
+    font-size: 54px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 .right_side img{
     width: 100%;
+}
+.left_side_third{
+    background: #f6f4f4;
+    padding: 30px;
+    border-radius: 3px;
+    border-left: 7px solid orange;
+    box-shadow: 2px 3px 6px 0px #e7cbcb;
+}
+.left_side_third h2{
+    color: orange;
+    font-weight: bold;
+}
+.right_side_third{
+    background: #f6f4f4;
+    padding: 30px;
+    border-radius: 3px;
+    border-left: 7px solid #28a745;
+    box-shadow: 2px 3px 6px 0px #e7cbcb;
+}
+.title{
+    text-align: center;
+}
+.bg_third{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.right_side_secend{
+    margin-top: 100px;
+    padding: 40px;
+}
+.right_side_secend h1{
+    font-size: 54px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.title h2{
+    font-weight: bold;
+    font-size: 40px;
+    text-transform: uppercase;
 }
