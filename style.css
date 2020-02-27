@@ -63,3 +63,7 @@ body{
     font-size: 40px;
     text-transform: uppercase;
 }
+.footer{
+    text-align: center;
+    margin-top: 60px;
+}
